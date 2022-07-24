@@ -1,4 +1,4 @@
-# Raganork-multi-device
+# king-Omindu-Md-Bot
 ## Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
 ## Looking for non multi device version? Get it [here](https://github.com/OMINDUANJANA/King-Omindu-Md.git)
 <!---## Readme first before using 👇❌
