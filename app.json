@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/OMINDUANJANA/king-Omindu-Md-Bot.git",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Queen Lora MD Editing"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
