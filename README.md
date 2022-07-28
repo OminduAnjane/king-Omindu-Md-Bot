@@ -12,4 +12,4 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <br>
 <div>
 <br>
-  <a href=https://heroku.com/deploy?template=https://github.com/OMINDUANJANA/King-Omindu-Md.git" target="blank"><img src="heroku-logo.svg" alt="deploy" width="100">
+  <a href=https://heroku.com/deploy?template=https://github.com/OMINDUANJANA/king-Omindu-Md-Bot.git" target="blank"><img src="heroku-logo.svg" alt="deploy" width="100">
