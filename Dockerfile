@@ -1,4 +1,4 @@
-FROM quay.io/souravkl11/raganork:multidevice
+FROM quay.io/ominduanjana/queenlora:multidevice
 
 RUN git clone https://github.com/OMINDUANJANA/king-Omindu-Md-Bot /skl/Raganork
 WORKDIR /skl/Raganork
